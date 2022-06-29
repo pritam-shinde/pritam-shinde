@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pritam-shinde)](https://github.com/pritam-shinde/github-readme-stats)
+
 <!--
 **pritam-shinde/pritam-shinde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
